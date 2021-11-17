@@ -30,14 +30,18 @@
 
 ---
 
-<img align="left" alt="Shifty's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shiftyita&show_icons=true&hide_border=true" /><br /><br />
-
-
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
   <!--START_SECTION:activity-->
   <!--END_SECTION:activity-->
 </details>
+
+--- 
+
+<img align="left" alt="Shifty's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shiftyita&show_icons=true&hide_border=true" /><br /><br />
+
+
+
 
 
 [youtube]: https://www.youtube.com/channel/UC01kbvoszt6YpE-Q0RJX2hw
