@@ -35,6 +35,9 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=shiftyita&show_icons=true&hide_border=true" />
+
 </details>
 
 [youtube]: https://www.youtube.com/channel/UC01kbvoszt6YpE-Q0RJX2hw
