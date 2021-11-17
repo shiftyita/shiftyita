@@ -32,10 +32,6 @@
 <img align="left" alt="Shifty's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shiftyita&show_icons=true&hide_border=true" />
 
 
-[youtube]: https://www.youtube.com/channel/UC01kbvoszt6YpE-Q0RJX2hw
-[linkedin]: https://www.linkedin.com/in/davide-leonardi-aa7a9248/
-[spotify]: https://open.spotify.com/album/0btflDLrF6hQvcPPNFJ3XJ
-
 ---
 
 <details>
@@ -45,3 +41,9 @@
 <!--END_SECTION:activity-->
 
 </details>
+
+
+[youtube]: https://www.youtube.com/channel/UC01kbvoszt6YpE-Q0RJX2hw
+[linkedin]: https://www.linkedin.com/in/davide-leonardi-aa7a9248/
+[spotify]: https://open.spotify.com/album/0btflDLrF6hQvcPPNFJ3XJ
+
