@@ -29,6 +29,14 @@
 ➡️ [more videos...](https://www.youtube.com/channel/UC01kbvoszt6YpE-Q0RJX2hw)
 
 ---
+<img align="left" alt="Shifty's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shiftyita&show_icons=true&hide_border=true" />
+
+
+[youtube]: https://www.youtube.com/channel/UC01kbvoszt6YpE-Q0RJX2hw
+[linkedin]: https://www.linkedin.com/in/davide-leonardi-aa7a9248/
+[spotify]: https://open.spotify.com/album/0btflDLrF6hQvcPPNFJ3XJ
+
+---
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
@@ -37,14 +45,3 @@
 <!--END_SECTION:activity-->
 
 </details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Shifty's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shiftyita&show_icons=true&hide_border=true" />
-
-</details>
-
-[youtube]: https://www.youtube.com/channel/UC01kbvoszt6YpE-Q0RJX2hw
-[linkedin]: https://www.linkedin.com/in/davide-leonardi-aa7a9248/
-[spotify]: https://open.spotify.com/album/0btflDLrF6hQvcPPNFJ3XJ
