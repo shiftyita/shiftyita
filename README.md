@@ -19,6 +19,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [[Audio Horror] La casa delle bambole](https://www.youtube.com/watch?v=n8Q-VWz1FVc)
+- [Dark Room - Contest [4th Place Winner]](https://www.youtube.com/watch?v=Eeo1wyguKGc)
+- [&lpar;Making of&rpar; Anesthesia](https://www.youtube.com/watch?v=89KxnrL882A)
+- [Anesthesia &lpar;SubITA&rpar;](https://www.youtube.com/watch?v=v0p61v3pkfY)
+- [Horizon](https://www.youtube.com/watch?v=rjCWsGPIU8I)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UC01kbvoszt6YpE-Q0RJX2hw)
